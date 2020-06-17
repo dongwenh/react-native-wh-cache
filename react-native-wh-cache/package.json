@@ -1,6 +1,6 @@
 
 {
-  "name": "react-native-cache",
+  "name": "react-native-wh-cache",
   "version": "1.0.0",
   "description": "Cache",
   "main": "index.js",
