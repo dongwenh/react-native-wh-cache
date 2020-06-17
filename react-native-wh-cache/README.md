@@ -1,5 +1,5 @@
 #  修改 react-native-http-cache https://github.com/reactnativecn/react-native-http-cache
-# react-native-cache
+# react-native-wh-cache
 
 ## Getting started
 
