@@ -1,13 +1,13 @@
-
+#  修改 react-native-http-cache https://github.com/reactnativecn/react-native-http-cache
 # react-native-cache
 
 ## Getting started
 
-`$ npm install react-native-cache --save`
+`$ npm install react-native-wh-cache --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-cache`
+`$ react-native link react-native-wh-cache`
 
 ### Manual installation
 
