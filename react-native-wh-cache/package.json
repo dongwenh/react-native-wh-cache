@@ -11,7 +11,7 @@
     "react-native"
   ],
   "author": "wenhui.dong",
-  "homepage": "",
+  "homepage": "https://github.com/dongwenh/react-native-wh-cache.git",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
